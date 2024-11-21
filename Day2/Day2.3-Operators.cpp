@@ -26,4 +26,6 @@ cout<<(4!=5)<<endl;
              cout<<(4>5 && 5>6)<<endl;
              cout<<(4>5 || 5>6)<<endl;
              cout<<(!(4>5))<<endl;
+
+             // BITWISE
 }
