@@ -28,4 +28,11 @@ cout<<(4!=5)<<endl;
              cout<<(!(4>5))<<endl;
 
              // BITWISE
+             cout<<"BITWISE"<<endl;
+             cout<<(4&5)<<endl;
+             cout<<(4|5)<<endl;
+             cout<<(~4)<<endl;
+             cout<<(4^5)<<endl;
+             cout<<(4>>5)<<endl;
+             cout<<(4<<5)<<endl;
 }
