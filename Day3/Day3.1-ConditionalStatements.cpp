@@ -1,4 +1,4 @@
-// If statement:
+// If Else statement:
 #include <iostream>
 using namespace std;
 
