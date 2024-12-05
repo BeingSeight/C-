@@ -14,6 +14,13 @@ int main()
     swap(a,b);
 
     cout<<"\nAfter Swapping: "<<a<<"\t"<<b;
+}
 
-    return 0;
+void swap(int x,int y)
+{
+    int t;
+    t=x;
+    x=y;
+    y=t;
+    cout<<"\nAfter Swapping: "<<x<<"\t"<<y;
 }
