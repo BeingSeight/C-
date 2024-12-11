@@ -1,2 +1,0 @@
-Account Number: 123456
-Balance: $1300
