@@ -22,7 +22,7 @@ void show()
 };
 int main()
 {
-Test<float,int> test1(1, 100);
+Test<float,int> test1(1.0f, 100);
 Test<int,char> test2(100,'W');
 test1.show();
 test2.show();
