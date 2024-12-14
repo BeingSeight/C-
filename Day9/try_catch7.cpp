@@ -21,5 +21,6 @@ int main()
     test(-1);
     test(0);
     test(1);
+
     return 0;
 }
