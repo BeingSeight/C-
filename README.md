@@ -94,4 +94,3 @@ Give a ⭐️ if this project helped you!
 If you have any questions or suggestions, feel free to open an issue on GitHub.
 
 ---
-```
